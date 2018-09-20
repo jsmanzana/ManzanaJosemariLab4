@@ -53,11 +53,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showMessage1(View view) {
-        Toast.makeText(this, "4ITE is the best", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "BLACKPINK IN YOUR AREA", Toast.LENGTH_LONG).show();
     }
 
     public void showMessage2(View view) {
-        Snackbar.make(view, "4ITE is the best", Snackbar.LENGTH_LONG).show();
+        Snackbar.make(view, "BLACKPINK IS THE REVOLUTION", Snackbar.LENGTH_LONG).show();
     }
 
 }
